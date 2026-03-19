@@ -17,6 +17,8 @@ A lightweight local web app that tracks **profit from Year Of The Pig event** in
   - Coins vs item value
 - 🔍 Event filtering + clear history
 
+<img width="1025" height="905" alt="image" src="https://github.com/user-attachments/assets/ca7a47f5-fac7-4ab2-aee2-79db5c64f13b" />
+
 ---
 
 ## 🚀 How It Works
@@ -48,5 +50,5 @@ A lightweight local web app that tracks **profit from Year Of The Pig event** in
 - Minecraft (for log file)
 
 ---
-<img width="1025" height="905" alt="image" src="https://github.com/user-attachments/assets/ca7a47f5-fac7-4ab2-aee2-79db5c64f13b" />
+
 
